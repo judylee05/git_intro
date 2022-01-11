@@ -1,1 +1,2 @@
-"Jung Min Lee" 
+Jung Min Lee
+leeju2@oregonstate.edu
